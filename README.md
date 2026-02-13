@@ -48,7 +48,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 #### Accessibility
 
 - Added `aria-label` to the `<main>` element to describe its role when needed.
-- Added `aria-label="years old"` to the age `<p>` to provide context for screen readers.
 - Wrapped the name and age in a container (wrapper) to group them, with the name as an `<h1>` and age as a `<span>` inside.
 
 ## Author
