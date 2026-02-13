@@ -87,7 +87,6 @@ body {
 }
 
 .profile-age {
-  display: block;
   font-weight: var(--fw-regular);
   color: var(--gray-500);
 }
