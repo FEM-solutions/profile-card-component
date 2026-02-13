@@ -27,6 +27,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Live Site URL: [https://fem-solutions.github.io/profile-card-component](https://fem-solutions.github.io/profile-card-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-jS5rkTilPN](https://www.frontendmentor.io/solutions/profile-card-component-jS5rkTilPN)
 
 ## My process
 
